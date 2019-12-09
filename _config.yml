@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. Candidate at The Ohio State University"
   location         : "CITR LAB, Columbus, OH, USA"
   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HUiOhKYAAAAJ&hl=en"
   email            : "han.394@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
