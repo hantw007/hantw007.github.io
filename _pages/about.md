@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage. 
 
-I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner]http://citr.osu.edu/CrIS/Umit_Ozguner.html) at the Department of Electrical and Computer Engineering, the Ohio State University. In a broad sense, my research interests are Intelligent systems and algorithms in different applications.
+I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner](http://citr.osu.edu/CrIS/Umit_Ozguner.html)) at the Department of Electrical and Computer Engineering, the Ohio State University. In a broad sense, my research interests are Intelligent systems and algorithms in different applications.
 
 I got a master's degree at the Department Computer Science (specialty: intelligent robotics), University of Southern California. During the master's program, I researched three different laboratories about Optimal Rehabilitation System, Intelligent Cognitive System, and Recognfigurable Robot Controls. After graduation, I joined the Advanced Technology Research Center at Samsung as a research engineer and developed perception systems for automated (ground and aerial) vehicles by using cognition, learning, and reasoning theories.
 
@@ -19,8 +19,8 @@ My dissertation is focused on developing an online evolving system that enables 
 <!--
 -->
 
-<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
--->
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 <!--A data-driven personal website
 ======
