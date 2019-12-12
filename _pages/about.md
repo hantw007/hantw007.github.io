@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-######Welcome to my homepage. 
+###### Welcome to my homepage. 
 
 I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner](http://citr.osu.edu/CrIS/Umit_Ozguner.html)) at the Department of Electrical and Computer Engineering, the Ohio State University. In a broad sense, my research interests are Intelligent systems and algorithms in different applications.
 
