@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage. 
+######Welcome to my homepage. 
 
-<font size=8>I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner](http://citr.osu.edu/CrIS/Umit_Ozguner.html)) at the Department of Electrical and Computer Engineering, the Ohio State University. In a broad sense, my research interests are Intelligent systems and algorithms in different applications.</font>
+I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner](http://citr.osu.edu/CrIS/Umit_Ozguner.html)) at the Department of Electrical and Computer Engineering, the Ohio State University. In a broad sense, my research interests are Intelligent systems and algorithms in different applications.
 
 I got a master's degree at the Department Computer Science (specialty: intelligent robotics), University of Southern California. During the master's program, I researched three different laboratories about Optimal Rehabilitation System, Intelligent Cognitive System, and Recognfigurable Robot Controls. After graduation, I joined the Advanced Technology Research Center at Samsung as a research engineer and developed perception systems for automated (ground and aerial) vehicles by using cognition, learning, and reasoning theories.
 
