@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "An Online Gait Adaptation with SuperBot in Sloped Terrains"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2012-12-11-An Online Gait Adaptation with SuperBot in Sloped Terrains
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2012-12-11
+venue: '2012 IEEE International Conference on Robotics and Biomimetics (ROBIO)'
+paperurl: 
+citation: 'Han, T., Ranasinghe, N., Barrios, L., & Shen, W. M. (2012, December). An online gait adaptation with superbot in sloped terrains. <i> In 2012 IEEE International Conference on Robotics and Biomimetics (ROBIO)</i> (pp. 1256-1261). IEEE.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Abstract
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+:    Among the different types of robots, modular and self-reconfigurable robots such as SuperBot have less limitations than their counterparts due to their versatility of gaits and increased dynamic adaptability. This results in a highly dexterous and adjustable robot suitable for many environments. This however, usually comes at the expense of a necessary human observer required to monitor and control the robot manually resulting in a waste of power and time. Thus, an intelligent system would be indispensable in optimzing the behavior and control of modular and self-reconfigurable robots. This paper presents an Intelligent Online Reconfiguration System (IORS) which through a combination of learning and reasoning, increases the efficiency in control and movement of the modular and self-reconfigurable robot called Superbot. Using this system, Superbot is able to learn and choose the best gait automatically by sensing its current environment (e.g., friction or slope). As a result, the IORS implementation in SuperBot achieves: 1) correct slope gradient sensing, 2) best gait learning to traverse different slopes, and 3) rational decision making for choosing the best gait.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://hantw007.github.io/files/paper2.pdf)
+
+<!--Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).-->
