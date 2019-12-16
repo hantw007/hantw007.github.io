@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Hallym University, 2006
-* M.S. in Computer Science, University of Southern California, 2010
 * Ph.D in Electrical and Computer Engineering, Ohio State University, 2020 (expected)
+* M.S. in Computer Science, University of Southern California, 2010
+* B.S. in Computer Engineering, Hallym University, 2006
 
 Research experience in Academic Projects
 ======
@@ -62,7 +62,19 @@ Previous Employment
   * Project: Off-Road Unmanned Ground Vehicle (UGV) [Link](https://www.youtube.com/watch?v=xXriMzcAAS4&feature=youtu.be) for surveillance and reconnaissance operations.
     * Developed the object detection system and the traversability mapper by using 3D LIDAR and IMU sensors.
     * Demonstrations [Link1](https://www.youtube.com/watch?v=mCDADDvGr-k&feature=youtu.be) [Link2](https://www.youtube.com/watch?v=Ywl6a_0-4SA)
-  
+  * Project: Indoor UGV for factory automation
+    * Developed the indoor localization system which recognizes accurate positions without GPS by using stereo
+camera. (Advanced version),[Link](https://www.youtube.com/watch?v=EiQIcD1imA4&feature=youtu.be)
+    * Developed a line-tracing system by using a single camera (Standard version),[Link](https://www.youtube.com/watch?v=nfRTs4AfJFk&feature=youtu.be)
+  * Patents
+    * Device and method for correcting vehicle position, system for correcting vehicle position by using lane and
+vehicle capable of manless operation (PCT/KR2014/004299).
+    * Lane detection system and method (US 9245188 B2).
+  * Other Experiences
+    * Developed device drivers for sensors under the necessity using Serial and Ethernet protocols.
+    * Development Environment: ROS and C++ on Linux.
+    * Sensors: GPS/INS (Span-CPT, VN-200), camera (Flea), laser sensor (LMS-151, LMS-511, LD-MRS), LIDAR (Velodyne 64E, 16), Kinect, Tigereyes.
+    * Designed and created robot’s mechanism parts by using Solidworks and 3D printer.
    
 Skills
 ======
