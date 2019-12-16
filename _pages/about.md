@@ -11,7 +11,7 @@ I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner](http://citr.osu.
 
 My dissertation is focused on developing an online evolving system that enables a controller to recognize initially unexpected situations and to learn optimal actions in an iterative manner. A beta version of the evolving method called an evolving Finite State Machine (e-FSM) is developed and has been applied to solve complicate control problems for optimal automated vehicle control.
 
-Histories Before Ph.D.
+Before Ph.D.
 ---
 
 I got a master's degree at the Department of Computer Science (specialty: intelligent robotics), University of Southern California. During the master's program, I researched about Optimal Rehabilitation System, Intelligent Cognitive System, and Recognfigurable Robot Controls in three different laboratories. After graduation, I joined the Advanced Technology Research Center at Samsung as a research engineer and developed perception systems for automated (ground and aerial) vehicles by using cognition, learning, and reasoning theories.
