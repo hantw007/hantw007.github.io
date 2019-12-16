@@ -19,7 +19,7 @@ Research experience in Academic Projects
 ======
 * August 2017–Current: Research Assistant
   * Controls and Intelligent Transportation Reseasrch Lab, Ohio State University
-  * Duties included: 
+  * Duties included
     *Developed an online evolving method which makes optimal decisions under unexpected situations via own or shared experiences.
     *Studying an online evolving framework to obtain an optimal driving policy in an iterative manner for Automated Vehicle (AV).
       *Project is funded by the Ford Motor Company’s University Research Program (URP)
