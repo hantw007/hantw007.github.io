@@ -100,6 +100,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   -->
+  
 Service and leadership
 ======
 * March 2006–June 2008: First Lieutenant, Secure Information Officer and Platoon Leader
