@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Learning via gradient descent in Sigma."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/ICCM2013
+excerpt: ''
+date: 2013/07/11
+venue: 'Proceedings of the 12th International Conference on Cognitive Modeling'
+paperurl: 
+citation: Rosenbloom, P. S., Demski, A., Han, T., & Ustun, V. (2013). Learning via gradient descent in Sigma. In Proceedings of the 12th International Conference on Cognitive Modeling (Vol. 94).
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Abstract
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+:    Integrating a gradient-descent learning mechanism at the core of the graphical models upon which the Sigma cognitive architecture/system is built yields learning behaviors that span important forms of both procedural learning (e.g., action and reinforcement learning) and declarative learning (e.g., supervised and unsupervised concept formation), plus several additional forms of learning (e.g., distribution tracking and map learning) relevant to cognitive systems/modeling. The core result presented here is this breadth of cognitive learning behaviors that is producible in this uniform manner..
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://hantw007.github.io/files/sigma.pdf)
