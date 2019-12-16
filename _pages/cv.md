@@ -18,19 +18,18 @@ Education
 Research experience in Academic Projects
 ======
 * August 2017–Current: Research Assistant
-  * Controls and Intelligent Transportation Reseasrch Lab, Ohio State University
-  * Duties included
-    *Developed an online evolving method which makes optimal decisions under unexpected situations via own or shared experiences.
-    *Studying an online evolving framework to obtain an optimal driving policy in an iterative manner for Automated Vehicle (AV).
-      *Project is funded by the Ford Motor Company’s University Research Program (URP)
-      *Researching with Dr. Dimitar Filev and Dr. Subramanya Nageshrao from the Ford Motor Company (August 2019 - Now).
-    *Publication1: Driving Intention Recognition and Lane Change Prediction on the Highway, IV 2019
-    *Publication2: An Online Evolving Method for Modeling a Safer Autonomous Vehicle Control System via Recognition of Latent Risks in Advance, Control Systems Letters (Under Review)
-      *Posted Reading Material: An Online Evolving Framework for Modeling the Safe Autonomous Vehicle Control System via
-Online Recognition of Latent Risks, arXiv
-    *Publication3: An Online Evolving Framework for Advancing Reinforcement-Learning based Automated Vehicle Control, IFAC2020
-Conference (Under Review)
   * Supervisor: Professor Umit Ozguner
+  * Controls and Intelligent Transportation Reseasrch Lab, Ohio State University
+  * Developed an online evolving method which makes optimal decisions under unexpected situations via own or shared experiences.
+  * Studying an online evolving framework to obtain an optimal driving policy in an iterative manner for Automated Vehicle (AV).
+    * Project is funded by the Ford Motor Company’s University Research Program (URP)
+    * Researching with Dr. Dimitar Filev and Dr. Subramanya Nageshrao from the Ford Motor Company (August 2019 - Now).
+    * Publication1: Driving Intention Recognition and Lane Change Prediction on the Highway, IV 2019
+    * Publication2: An Online Evolving Method for Modeling a Safer Autonomous Vehicle Control System via Recognition of Latent Risks in Advance, Control Systems Letters (Under Review)
+    * Posted Reading Material: An Online Evolving Framework for Modeling the Safe Autonomous Vehicle Control System via
+Online Recognition of Latent Risks, arXiv
+    * Publication3: An Online Evolving Framework for Advancing Reinforcement-Learning based Automated Vehicle Control, IFAC2020
+Conference (Under Review)
 
 * Fall 2015: Research Assistant
   * Github University
