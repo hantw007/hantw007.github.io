@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [PDF](hantw007.github.io/files/cv.pdf)"
+title: "CV [PDF](http://hantw007.github.io/files/cv.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
