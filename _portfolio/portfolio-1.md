@@ -10,8 +10,8 @@ An online evolving method named evolving Finite State Machine (e-FSM) can determ
 
 ## What is the optimal control?
 * Choosing actions to satisfy the given criteria.
-* Trade-off between conflicted criterion (e.g., safety and speed)
-  * Latent factors (for the future) can be useful.
-  * Recognition of unknown situations
+* Trade-off between conflicted criterion (e.g., safety and speed) is required.
+  * Recognition of latent factors (e.g., collision risk in the future) can be useful for appropriate trade-off.
+  * Initially unexpected situations need to be determined over time.
 
 
