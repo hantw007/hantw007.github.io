@@ -36,7 +36,7 @@ Research experience in Academic Projects
   * Contributed to improve the Graphical Cognitive Architecture (GCA)’s learning and reasoning systems.
   * Developed a logical GCA structure for mobile robot’s localization and navigation.
   
-* January 2011–May 2012: Direct Research Student
+* January 2011–May 2011: Direct Research Student
   * Computational Neuro-Rehabilitation & Learning Lab, University of Southern California
   * Advisor: Professor Scheweighofer Nicolas
   * Researched and developed the learning and reasoning system to improve efficiency of rehabilitation processes.
