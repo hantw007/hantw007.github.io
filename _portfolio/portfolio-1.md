@@ -23,3 +23,13 @@ The optimal controller requires to choose actions to satisfy the given criteria.
 
 ## What is the e-FSM?
 The e-FSM is similar to the Finite State Machine (or Markov Chain), which consists of states and transitions. However, the total number of states is not initially defined but increased over time by determining new states. Transitions between determined states are identified in an iterative way and are represented by Transition Probability Matrices (TPMs).
+
+### Comparison between Markov-Chain (MC) and e-FSM
+<p align="center">
+  
+| <img src="https://hantw007.github.io/images/MC_fig.png" width="300" height="200"> | 
+|:--:| 
+| *Fig. 1:* Markov Chain example |
+
+</p>
+The Markov-Chain's structure should be initially configured and fixed. In Fig. 1, the MC which consists of two states (s1 and s2) is presneted. Transitions between states are represented by a matix $P_{MC}$. Since the total number of states is two, the dimension of the transition probability matrix (TPM) is 2 by 2. 
