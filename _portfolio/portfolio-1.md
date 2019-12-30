@@ -26,8 +26,7 @@ The e-FSM is similar to the Finite State Machine (or Markov Chain), which consis
 
 ### Comparison between Markov-Chain (MC) and e-FSM  
 
-| <img src="https://hantw007.github.io/images/MC_fig.png" width="300" height="200"> | 
-|:--:| 
-| *Fig. 1:* Markov Chain example |
+<img src="https://hantw007.github.io/images/MC_fig.png" width="300" height="200"> 
+*Fig. 1:* Markov Chain example
 
-The Markov-Chain's structure should be initially configured and fixed. In Fig. 1, the MC which consists of two states (s1 and s2) is presneted. Transitions between states are represented by a matix ![img](http://latex.codecogs.com/svg.latex?P_%7BMC%7D%0D%0A). Since the total number of states is two, the dimension of the transition probability matrix (TPM) is 2 by 2. 
+The Markov-Chain's structure should be initially configured and fixed. In Fig. 1, the MC which consists of two states (s1 and s2) is presneted. Transitions between states are represented by a matrix ![img](http://latex.codecogs.com/svg.latex?P_%7BMC%7D%0D%0A). Since the total number of states is two, the dimension of the transition probability matrix (TPM) is 2 by 2. 
