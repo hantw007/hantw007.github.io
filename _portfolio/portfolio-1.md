@@ -44,7 +44,7 @@ In the example, there was a single state (s1) by t=2. Based on a chosen action a
 ## Specific Features of the e-FSM
 As briefly described, the e-FSM has two main features: online determination of states and online identification of transition probability matrices. Therefore, initially unexpected situations can be recognized, and future states could be predicted in advance.
 <p>
-  <img src="https://hantw007.github.io/images/eFSM_framework_fig.png" width="800" height="300" align="center"><br>
+  <img src="https://hantw007.github.io/images/eFSM_framework.png" width="800" height="300" align="center"><br>
   <em>Fig. 3: The e-FSM's framework</em>
 </p>
 
