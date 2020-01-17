@@ -50,6 +50,13 @@ As briefly described, the e-FSM has two main features: online determination of s
 
 
 ### Online determination of states in the e-FSM
-The online determination can be possible by using one of the online clustering methods, evolving Takage Sugeno. At every time-step <i>t</i>, observations in a vector form (![img](http://latex.codecogs.com/svg.latex?z_t)) is assigned into either  existing cluters or new cluster. Each cluster is considered as a state in the e-FSM.
+The online determination can be possible by using one of the online clustering methods, evolving Takage Sugeno. At every time-step <i>t</i>, a set of observations in a vector form (![img](http://latex.codecogs.com/svg.latex?z_t)) is implemented to update existing cluster centers or creating a new cluster. Each cluster-center is considered as a state in the e-FSM; the eTS is described in "Filev, D. et al., Markov chain modeling approaches for on board applications, ACC 2010".
+
+When a new cluster is created, dimension of transtion probability matrices are expanded. Otherwise, similarities between a set of observations and existing states are calculated and normalized to use them as probability distributions of states. Since cluster-centers are represented as states in the e-FSM, the euclidean distance between a set of observation and existing cluster-centers is implemented for obtaining the similarities.
+
+* State set in the e-FSM: ![img](http://latex.codecogs.com/svg.latex?S_t)={![img](http://latex.codecogs.com/svg.latex?s_t)(1), ![img](http://latex.codecogs.com/svg.latex?s_t)(2), ..., ![img](http://latex.codecogs.com/svg.latex?s_t)(![img](http://latex.codecogs.com/svg.latex?n_t))}, where ![img](http://latex.codecogs.com/svg.latex?n_t) is the total number of determined states by timestep <i>t</i>.
+* Probability distributions of states at timestep <i>t</i> are <i>Prob</i>(![img](http://latex.codecogs.com/svg.latex?S_t)) =[![img](http://latex.codecogs.com/svg.latex?%5Cgamma_t%5E1%28z_t%29), ![img](http://latex.codecogs.com/svg.latex?%5Cgamma_t%5E2%28z_t%29), ..., ![img](http://latex.codecogs.com/svg.latex?%5Cgamma_t%5E%7Bn_t%7D%28z_t%29)]
+  * ![img](http://latex.codecogs.com/svg.latex?%5Cgamma_t%5Ei%28z_t%29) is similarity between ![img](http://latex.codecogs.com/svg.latex?z_t) and ![img](http://latex.codecogs.com/svg.latex?z_t%5E%7B%2Ai%7D), where ![img](http://latex.codecogs.com/svg.latex?z_t%5E%7B%2Ai%7D) is ![img](http://latex.codecogs.com/svg.latex?i%5E%7Bth%7D) cluster-center.(<i>i</i>=1, ..., ![img](http://latex.codecogs.com/svg.latex?n_t)).
+  
 
 Continue updating...
