@@ -6,12 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download: [PDF](http://hantw007.github.io/files/cv.pdf)
+Download: [PDF](http://hantw007.github.io/files/Curriculum_Vitae_Teawon_Han.pdf)
 {% include base_path %}
 
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, Ohio State University, 2020 (expected)
+* M.S. in Electrical and Computer Engineering, Ohio State University, 2019
 * M.S. in Computer Science, University of Southern California, 2010
 * B.S. in Computer Engineering, Hallym University, 2006
 
