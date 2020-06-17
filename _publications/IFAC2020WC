@@ -1,0 +1,15 @@
+---
+title: "An online evolving framework for advancing reinforcement-learning based automated vehicle control."
+collection: publications
+permalink: /publication/arXiv2020
+excerpt: ''
+date: 2020/06/15
+venue: 'arXiv preprint arXiv:2006.08092'
+paperurl: 
+citation: Han, T., Nageshrao, S., Filev, D., & Ozguner, U. (2020). An online evolving framework for advancing reinforcement-learning based automated vehicle control. arXiv preprint arXiv:2006.08092.
+---
+Abstract
+
+:    In this paper, an online evolving framework is proposed to detect and revise a controller’s imperfect decision-making in advance. The framework consists of three modules: the evolving Finite State Machine (e-FSM), action-reviser, and controller modules. The eFSM module evolves a stochastic model (e.g., Discrete-Time Markov Chain) from scratch by determining new states and identifying transition probabilities repeatedly. With the latest stochastic model and given criteria, the action-reviser module checks validity of the controller’s chosen action by predicting future states. Then, if the chosen action is not appropriate, another action is inspected and selected. In order to show the advantage of the proposed framework, the Deep Deterministic Policy Gradient (DDPG) w/ and w/o the online evolving framework are applied to control an ego-vehicle in the car-following scenario where control criteria are set by speed and safety. Experimental results show that inappropriate actions chosen by the DDPG controller are detected and revised appropriately through our proposed framework, resulting in no control failures after a few iterations.
+
+[Download paper here](https://arxiv.org/pdf/2006.08092.pdf)
