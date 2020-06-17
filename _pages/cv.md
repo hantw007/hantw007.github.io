@@ -21,9 +21,9 @@ Research experience in Academic Projects
   * Advisor: Professor Umit Ozguner
   * Controls and Intelligent Transportation Reseasrch Lab, Ohio State University
   * Developed an online evolving method which makes optimal decisions under unexpected situations via own or shared experiences.
-  * Studying an online evolving framework to obtain an optimal driving policy in an iterative manner for Automated Vehicle (AV).
-    * Project is funded by the Ford Motor Company’s University Research Program (URP)
-    * Researching with Dr. Dimitar Filev and Dr. Subramanya Nageshrao from the Ford Motor Company (August 2019 - Now).
+  * Studying an online evolving framework to obtain an optimal driving policy/controller in an iterative manner for Automated Vehicle (AV).
+    * Project was funded by the Ford Motor Company’s University Research Program (URP) (August 2019 - March 2020)
+    * Second phase of the project is funded by the Ford Motor Company (March 2020 - Now).
 
 * January 2012–July 2012: Direct Research Student
   * Polymorphic Robotics Laboratory, Information Sciences Institute, University of Southern California
