@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download: [PDF](http://hantw007.github.io/files/Curriculum_Vitae_TeawonHan_062020.pdf)
+Download: [PDF](http://hantw007.github.io/files/Curriculum-Vitae_TeawonHan_062020.pdf)
 {% include base_path %}
 
 Education
