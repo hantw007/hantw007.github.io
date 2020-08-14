@@ -4,7 +4,7 @@ excerpt: "An online evolving method named evolving Finite State Machine (e-FSM) 
 collection: portfolio
 ---
 
-## Project 1 - Design of evolving methodology: evolving Finite State Machine (e-FSM) for constructing a stochastic model from scratch without human intervensions.
+## Design of evolving methodology: evolving Finite State Machine (e-FSM) for constructing a stochastic model from scratch without human intervensions.
 <p>
   <img src="https://hantw007.github.io/images/eFSM.png" width="800" height="300" align="center">
 </p>
