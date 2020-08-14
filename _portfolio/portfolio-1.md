@@ -8,6 +8,7 @@ collection: portfolio
 <p>
   <img src="https://hantw007.github.io/images/eFSM.png" width="800" height="300" align="center">
 </p>
+
 -	Instead of designing a model by hand, evolving Finite State Machine constructs a stochastic model from scratch by determining states and identifying state-transitions.
 -	State Determination: the observations are clustered by the online clustering method (e.g., evolving Takagi-Sugeno) and each cluster-center is considered as a state.
 -	State-transition Identification: Observed consecutive variation of probability distributions at t-1 and t are used to identify state-transitions in an online way.
