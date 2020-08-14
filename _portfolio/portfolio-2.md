@@ -3,10 +3,8 @@ title: "Driving Intention Recognition and Lane-change Prediction on the highway"
 excerpt: "Driving intention is recognized by determining and estimating a driving characteristic, and lane-change behaviors are predicted by training a neural-network based predictor<br/>"
 collection: portfolio
 ---
-
-## Driving Intention Recognition and Lane Change Prediction on the Highway.
 <p>
-    <img src="https://hantw007.github.io/images/drivingIntentionRecognition.png" width="800" height="300" align="center">
+    <img src="https://hantw007.github.io/images/drivingIntentionRecognition.png" width="700" height="250" align="center">
 </p>
 
 -	Deterministic driver and lane-change decision making models are implemented to determine the Driving-Characteristic (D-Char).
