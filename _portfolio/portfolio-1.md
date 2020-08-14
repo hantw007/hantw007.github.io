@@ -13,7 +13,7 @@ collection: portfolio
 -	State Determination: the observations are clustered by the online clustering method (e.g., evolving Takagi-Sugeno) and each cluster-center is considered as a state.
 -	State-transition Identification: Observed consecutive variation of probability distributions at t-1 and t are used to identify state-transitions in an online way.
 -	Project is sponsored by Ford Motor Company.
--	Related Publication(s): https://arxiv.org/abs/1908.10823 
+-	Publication(s): https://arxiv.org/abs/1908.10823
 
 
 <!--
