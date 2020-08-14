@@ -4,6 +4,16 @@ excerpt: "An online evolving method named evolving Finite State Machine (e-FSM) 
 collection: portfolio
 ---
 
+## Project 1 - Design of evolving methodology: evolving Finite State Machine (e-FSM) for constructing a stochastic model from scratch without human intervensions.
+
+-	Instead of designing a model by hand, evolving Finite State Machine constructs a stochastic model from scratch by determining states and identifying state-transitions.
+-	State Determination: the observations are clustered by the online clustering method (e.g., evolving Takagi-Sugeno) and each cluster-center is considered as a state.
+-	State-transition Identification: Observed consecutive variation of probability distributions at t-1 and t are used to identify state-transitions in an online way.
+-	Project is sponsored by Ford Motor Company.
+-	Publication(s): https://arxiv.org/abs/1908.10823 
+
+
+<!--
 ## Overview of an online evolving method: evolving Finite State Machine (e-FSM)
 
 An online evolving method named evolving Finite State Machine (e-FSM) can determine unknown states (situations) and identify transitions. At the moment, it is similar to Markov Chain, but its structure evolves over time. This approach enables controllers to recognize unexpected situations and learn optimal controls (or decisions) over time. Also, the e-FSM is fully explainable, while Deep Neural Network is not.
@@ -60,3 +70,4 @@ When a new cluster is created, dimension of transtion probability matrices are e
   
 
 Continue updating...
+-->
