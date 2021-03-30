@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a research engineer at [Ford Greenfield Labs](ford greenfield labs), focusing on driving policy of Automated Vehicle Systems.
+I am currently a research engineer at [Ford Greenfield Labs](https://corporate.ford.com/operations/locations/silicon-valley.html), focusing on driving policy of Automated Vehicle Systems.
 
 After Ph.D
 ---
