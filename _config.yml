@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Teawon Han / Ph.D. Candidate"
+title                    : "Teawon Han / Ph.D."
 title_separator          : "-"
 name                     : &name "Teawon Han"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Teawon Han"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at The Ohio State University"
-  location         : "Columbus, OH, USA"
+  bio              : "Ph.D."
+  location         : "Palo Alto, California, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HUiOhKYAAAAJ&hl=en"
