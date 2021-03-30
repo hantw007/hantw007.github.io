@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a research engineer at [Ford Greenfield Labs](ford greenfield labs), focusing on driving policy of Automated Vehicle Systems.
 
-I am currently a Ph.D. Candidate (advisor: [Prof. Umit Ozguner](http://citr.osu.edu/CrIS/Umit_Ozguner.html)) at the Department of Electrical and Computer Engineering, the Ohio State University. In a broad sense, my research interests are Intelligent systems and algorithms in various applications.
+After Ph.D
+---
 
-My dissertation is focused on developing an online evolving system that enables a controller to recognize initially unexpected situations and to learn optimal actions in an iterative manner. A beta version of the evolving method called an evolving Finite State Machine (e-FSM) is developed and has been applied to solve complicate control problems for optimal automated vehicle control.
+I received a Ph.D. (advisor: [Prof. Umit Ozguner](http://citr.osu.edu/CrIS/Umit_Ozguner.html)) at the Department of Electrical and Computer Engineering, the Ohio State University. My dissertation was focused on developing an online evolving system that enables a controller to recognize initially unexpected situations and to learn optimal actions in an iterative manner. A beta version of the evolving method called an evolving Finite State Machine (e-FSM) is developed and has been applied to solve complicate control problems for optimal automated vehicle control.
 
 Before Ph.D.
 ---
