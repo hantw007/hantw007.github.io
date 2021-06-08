@@ -11,7 +11,7 @@ Download: [PDF](http://hantw007.github.io/files/Curriculum_Vitae-TeawonHan_06202
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Ohio State University, 2020 (expected)
+* Ph.D in Electrical and Computer Engineering, Ohio State University, 2020
 * M.S. in Electrical and Computer Engineering, Ohio State University, 2019
 * M.S. in Computer Science, University of Southern California, 2010
 * B.S. in Computer Engineering, Hallym University, 2006
